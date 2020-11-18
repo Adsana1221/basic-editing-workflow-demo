@@ -7,3 +7,6 @@ Here is some text.
 
 ### Sub-Subheader
 more text
+* point 1
+* point 2
+* point 3
